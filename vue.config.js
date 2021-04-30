@@ -1,4 +1,5 @@
 module.exports = {
+    publicPath: './',
     devServer: {
         host: 'localhost',
         port: '7001',
